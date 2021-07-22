@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="80" height="40">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="php" width="80" height="40">
+
 
