@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p>
 <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="80" height="40">
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="php" width="80" height="40">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="80" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="80" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="80" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="40">
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" width="80" height="40">
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="80" height="40">
+<img src="https://cakephp.org/img/trademarks/logo-1.jpg" alt="cakephp" width="80" height="40">
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="jquery" width="80" height="40">
+<img src="" alt="" width="80" height="40">
 </p>
 
