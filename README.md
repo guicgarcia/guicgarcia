@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="40">
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" width="80" height="40">
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="80" height="40">
-<img src="https://lh3.googleusercontent.com/proxy/i1mdBQjve8Il-ZgnLxOlFZVh0ZyQAt7DT5DksPpjDl2RubymGsdlmox8_3NATDaZJOlYePTuX8TGTzY" alt="cakephp" width="80" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Cake-logo.png" alt="cakephp" width="80" height="40">
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="jquery" width="80" height="40">
 <img src="" alt="" width="80" height="40">
 </p>
