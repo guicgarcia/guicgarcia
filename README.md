@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="80" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Cake-logo.png" alt="cakephp" width="80" height="40">
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="jquery" width="80" height="40">
-<img src="https://w7.pngwing.com/pngs/624/318/png-transparent-java-development-kit-android-vulnerability-javanese-muslims-text-logo-malware.png" alt="java" width="80" height="40">
+<img src="https://www.palpitedigital.com/y/4513/java-e1561385686305.jpeg" alt="java" width="80" height="40">
+<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/kotlin-2-logo.png" alt="kotlin" width="80" height="40">
 </p>
 
