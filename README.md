@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 📍 Paranaguá - PR
-- 👨‍💻 Desenvolvedor Web | Marketing Digital 
-- 🌱 Atualmente estou aprendendo Vue Js
+- 👨‍💻 Desenvolvedor Web full stack | Marketing Digital 
 - 📫 guicgarcia94@hotmail.com
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-chaves-garcia/)](https://www.linkedin.com/in/guilherme-chaves-garcia/)
@@ -27,5 +26,6 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="jquery" width="80" height="40">
 <img src="https://www.palpitedigital.com/y/4513/java-e1561385686305.jpeg" alt="java" width="80" height="40">
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/kotlin-logo-vector.svg" alt="kotlin" width="80" height="40">
+<img src="https://logospng.org/wp-content/uploads/vue-js.png" alt="kotlin" width="80" height="40">
 </p>
 
